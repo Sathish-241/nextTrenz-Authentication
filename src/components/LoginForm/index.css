@@ -1,0 +1,56 @@
+/* Write your CSS code here */
+.login-form-bg-container {
+  height: 100vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #e6f6ff;
+  padding: 100px;
+}
+.login-website-img {
+  height: 500px;
+  width: 50%;
+}
+.login-form-container {
+  height: 450px;
+  width: 400px;
+  background-color: white;
+  border: none;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.website-logo {
+  height: 50px;
+  width: 150px;
+  margin-left: 25%;
+  margin-bottom: 20px;
+}
+.input-label {
+  font-family: roboto;
+  font-weight: 500;
+  color: #475569;
+  margin-bottom: 10px;
+}
+.input-field {
+  height: 50px;
+  width: 100%;
+  border: none;
+  border-radius: 6px;
+  padding: 5px;
+  background-color: #d7dfe9;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.btn {
+  height: 40px;
+  width: 100%;
+  background-color: #0b69ff;
+  border: none;
+  border-radius: 6px;
+  text-align: center;
+  color: white;
+  cursor: pointer;
+  font-size: 20px;
+}
